@@ -1,0 +1,18 @@
+div {
+    width:100px;
+    height:100px;
+}
+td {
+    width:50px;
+    height:50px;
+    background-color: lightgrey;
+    border: 10px outset white;
+    margin: 0;
+}
+table{
+    outline: 0;
+    padding: 0;
+}
+body{
+    background-color: grey;
+}
