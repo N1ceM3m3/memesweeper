@@ -5,55 +5,55 @@ var dead = 0
 var color
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c1 = 1
 }
 else{
   var r1c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c2 = 1
 }
 else{
   var r1c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c3 = 1
 }
 else{
   var r1c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c4 = 1
 }
 else{
   var r1c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c5 = 1
 }
 else{
   var r1c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c6 = 1
 }
 else{
   var r1c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c7 = 1
 }
 else{
   var r1c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c8 = 1
 }
 else{
   var r1c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r1c9 = 1
 }
 else{
@@ -61,55 +61,55 @@ else{
 }
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c1 = 1
 }
 else{
   var r2c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c2 = 1
 }
 else{
   var r2c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c3 = 1
 }
 else{
   var r2c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c4 = 1
 }
 else{
   var r2c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c5 = 1
 }
 else{
   var r2c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c6 = 1
 }
 else{
   var r2c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c7 = 1
 }
 else{
   var r2c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c8 = 1
 }
 else{
   var r2c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r2c9 = 1
 }
 else{
@@ -117,55 +117,55 @@ else{
 }
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c1 = 1
 }
 else{
   var r3c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c2 = 1
 }
 else{
   var r3c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c3 = 1
 }
 else{
   var r3c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c4 = 1
 }
 else{
   var r3c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c5 = 1
 }
 else{
   var r3c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c6 = 1
 }
 else{
   var r3c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c7 = 1
 }
 else{
   var r3c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c8 = 1
 }
 else{
   var r3c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r3c9 = 1
 }
 else{
@@ -173,55 +173,55 @@ else{
 }
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c1 = 1
 }
 else{
   var r4c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c2 = 1
 }
 else{
   var r4c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c3 = 1
 }
 else{
   var r4c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c4 = 1
 }
 else{
   var r4c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c5 = 1
 }
 else{
   var r4c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c6 = 1
 }
 else{
   var r4c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c7 = 1
 }
 else{
   var r4c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c8 = 1
 }
 else{
   var r4c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r4c9 = 1
 }
 else{
@@ -229,55 +229,55 @@ else{
 }
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c1 = 1
 }
 else{
   var r5c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c2 = 1
 }
 else{
   var r5c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c3 = 1
 }
 else{
   var r5c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c4 = 1
 }
 else{
   var r5c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c5 = 1
 }
 else{
   var r5c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c6 = 1
 }
 else{
   var r5c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c7 = 1
 }
 else{
   var r5c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c8 = 1
 }
 else{
   var r5c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r5c9 = 1
 }
 else{
@@ -285,55 +285,55 @@ else{
 }
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c1 = 1
 }
 else{
   var r6c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c2 = 1
 }
 else{
   var r6c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c3 = 1
 }
 else{
   var r6c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c4 = 1
 }
 else{
   var r6c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c5 = 1
 }
 else{
   var r6c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c6 = 1
 }
 else{
   var r6c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c7 = 1
 }
 else{
   var r6c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c8 = 1
 }
 else{
   var r6c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r6c9 = 1
 }
 else{
@@ -341,55 +341,55 @@ else{
 }
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c1 = 1
 }
 else{
   var r7c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c2 = 1
 }
 else{
   var r7c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c3 = 1
 }
 else{
   var r7c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c4 = 1
 }
 else{
   var r7c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c5 = 1
 }
 else{
   var r7c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c6 = 1
 }
 else{
   var r7c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c7 = 1
 }
 else{
   var r7c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c8 = 1
 }
 else{
   var r7c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r7c9 = 1
 }
 else{
@@ -397,55 +397,55 @@ else{
 }
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c1 = 1
 }
 else{
   var r8c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c2 = 1
 }
 else{
   var r8c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c3 = 1
 }
 else{
   var r8c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c4 = 1
 }
 else{
   var r8c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c5 = 1
 }
 else{
   var r8c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c6 = 1
 }
 else{
   var r8c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c7 = 1
 }
 else{
   var r8c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c8 = 1
 }
 else{
   var r8c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r8c9 = 1
 }
 else{
@@ -453,55 +453,55 @@ else{
 }
 
 
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c1 = 1
 }
 else{
   var r9c1 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c2 = 1
 }
 else{
   var r9c2 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c3 = 1
 }
 else{
   var r9c3 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c4 = 1
 }
 else{
   var r9c4 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c5 = 1
 }
 else{
   var r9c5 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c6 = 1
 }
 else{
   var r9c6 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c7 = 1
 }
 else{
   var r9c7 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c8 = 1
 }
 else{
   var r9c8 = 0
 }
-if (getRandBetween(0,1) == 0){
+if (getRandBetween(0,5) == 0){
   var r9c9 = 1
 }
 else{
